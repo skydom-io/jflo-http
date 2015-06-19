@@ -1,6 +1,6 @@
 {
   "name": "jflo-http",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple HTTP Client for jflo",
   "main": "index.js",
   "scripts": {
